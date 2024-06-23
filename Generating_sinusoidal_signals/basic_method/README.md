@@ -21,6 +21,7 @@ s = sin(2*pi*3*t);  % Sine wave with frequency 3 Hz
 
 ### Plotting
 Use the plot function to visualize the continuous signal.
+!["continuous signal data"](continous-signal.PNG)
 
 ## Discrete Signal
 
@@ -33,3 +34,4 @@ Matlab
 s = sin(2*pi*3*t);  % Sine wave with frequency 3 Hz
 stem(s);
 ```
+!["discrete signal data"](discrete-signal.PNG)
