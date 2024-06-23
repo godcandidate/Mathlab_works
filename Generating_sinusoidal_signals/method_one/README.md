@@ -26,4 +26,9 @@ s = sin(2*pi*N*k);
 
 
 - Using plot: This displays a continuous line representing the overall trend of the sine wave.
+  
+!["continuous signal data"](continous-signal.PNG)
+
 - Using stem: This emphasizes individual data points with vertical lines and markers, showing the discrete nature of the signal.
+
+!["discrete signal data"](discrete-signal.PNG)
