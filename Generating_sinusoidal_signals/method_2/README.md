@@ -1,5 +1,5 @@
 # Method 2: Generating a Sinusoid signal
-This method demonstrates how to generate a sinusoidal signal in MATLAB, considering three parameters.
+Generating L seconds long signal sampled at fs consisting of N periods in it.
 
 ## Parameters
 - fs: Sampling frequency (in Hz). This defines how often the signal is sampled to obtain discrete data points.
