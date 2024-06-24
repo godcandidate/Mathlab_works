@@ -1,5 +1,5 @@
 # Method 1: Generating a Sinusoidal Signal
-This method demonstrates how to generate a discrete representation of a sinusoidal signal in MATLAB using two parameters:
+Generating a sinusoid signal with n data points with N periods in it.
 
 ## Parameters
 - n: Number of data points (specifies the resolution of the signal).
